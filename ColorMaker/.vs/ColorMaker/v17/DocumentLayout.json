@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\ColorMaker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2AAD49-16C3-448C-976B-73563DBA627E}|ColorMaker\\ColorMaker.csproj|c:\\users\\admin\\source\\repos\\colormaker\\colormaker\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2AAD49-16C3-448C-976B-73563DBA627E}|ColorMaker\\ColorMaker.csproj|solutionrelative:colormaker\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2AAD49-16C3-448C-976B-73563DBA627E}|ColorMaker\\ColorMaker.csproj|c:\\users\\admin\\source\\repos\\colormaker\\colormaker\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F2AAD49-16C3-448C-976B-73563DBA627E}|ColorMaker\\ColorMaker.csproj|solutionrelative:colormaker\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2AAD49-16C3-448C-976B-73563DBA627E}|ColorMaker\\ColorMaker.csproj|c:\\users\\admin\\source\\repos\\colormaker\\colormaker\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2AAD49-16C3-448C-976B-73563DBA627E}|ColorMaker\\ColorMaker.csproj|solutionrelative:colormaker\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ColorMaker\\ColorMaker\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ColorMaker\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ColorMaker\\ColorMaker\\MainPage.xaml.cs",
+              "RelativeToolTip": "ColorMaker\\MainPage.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAwwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:55:02.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ColorMaker\\ColorMaker\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ColorMaker\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ColorMaker\\ColorMaker\\MainPage.xaml",
+              "RelativeToolTip": "ColorMaker\\MainPage.xaml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-12T09:30:53.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ColorMaker\\ColorMaker\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ColorMaker\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ColorMaker\\ColorMaker\\App.xaml.cs",
+              "RelativeToolTip": "ColorMaker\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:30:40.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
